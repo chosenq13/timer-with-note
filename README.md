@@ -22,6 +22,9 @@ A minimalist command-line timer to help you stay productive, focused, and organi
 
 - Python 3.7+
 - [pygame](https://www.pygame.org/)
+- For alarm you need to add a "alarm.mp3" file to your directory. I uploaded an example one.
+- Json file will be automaticly generated.
+- In delete notes function, if you want to delete multiple notes you can just type :1 2 3 4. 
 
 Install dependencies:
 
