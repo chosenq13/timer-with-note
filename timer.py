@@ -180,6 +180,17 @@ def user_interface():
 
 
 if __name__ == "__main__":
+    print(
+        """
+    d88888b d8888b. .d8888. db    db 
+    88'     88  `8D 88'  YP 88    88 
+    88ooooo 88oobY' `8bo.   88    88 
+    88~~~~~ 88`8b     `Y8b. 88    88 
+    88.     88 `88. db   8D 88b  d88 
+    Y88888P 88   YD `8888Y' ~Y8888P'   
+        """
+    )
+
     while True:
         try:
             user_interface()
